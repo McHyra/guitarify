@@ -1,0 +1,29 @@
+{
+	"AppDescription": {
+		"en": "An App to display chords from UltimateGuitar whilst playing a song"
+	},
+	"AppIcon": {
+		"36x18": "tutorial.png"
+	},
+	"AppName": {
+		"en": "Guitarify"
+	},
+	"BundleIdentifier": "guitarify",
+	"BundleType": "Application",
+	"BundleVersion": "0.1",
+
+    "Dependencies": {
+        "api": "1.38.0",
+        "views": "1.0.0",
+        "resources": "0.6.1"
+    },
+    "SupportedDeviceClasses": "Desktop",
+	"RequiredInterface": 1,
+	"RequiredPermissions": [
+        "http://app.ultimate-guitar.com/"
+	],
+	"SupportedLanguages": [
+		"en"
+	],
+	"VendorIdentifier": "de.rh"
+}

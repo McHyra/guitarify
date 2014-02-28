@@ -1,0 +1,44 @@
+html, body {
+    background: #222;
+    color: #FFF;
+    text-shadow: none;
+}
+
+div#content-wrap {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+	padding: 10px;
+}
+
+header {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    padding: 10px;
+}
+
+div#controls {
+    display: inline-block;
+    float: right;
+}
+
+div#text {
+    display: inline-block;
+    float: left;
+}
+
+div#tab {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 65px;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    overflow: auto;
+    background: rgba(255, 255, 255, 0.8);
+}

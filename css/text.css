@@ -1,0 +1,25 @@
+h1 {
+    font-size: 1.6em;
+    margin: 0 0 10px 0;
+    color: #FFF;
+}
+
+h2 {
+    font-size: 1.2em;
+    margin: 0 0 10px 0;
+    color: #FFF;
+}
+
+div#tab > * {
+    color: #222;
+}
+
+span.chord {
+    font-weight: bold;
+}
+
+span.part {
+    display: inline-block;
+    font-weight: bold;
+    margin: 10px 0;
+}
