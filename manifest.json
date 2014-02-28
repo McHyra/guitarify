@@ -3,7 +3,7 @@
 		"en": "An App to display chords from UltimateGuitar whilst playing a song"
 	},
 	"AppIcon": {
-		"36x18": "tutorial.png"
+		"36x18": "icon.png"
 	},
 	"AppName": {
 		"en": "Guitarify"
